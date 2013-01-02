@@ -1,2 +1,12 @@
 Check link below for more details:
     http://stackoverflow.com/questions/14111563/why-this-copy-constructor-is-invoked-in-the-program#14111622
+
+
+ex.cpp:
+    default copy-constructor
+
+ex2.cpp:
+    self-made copy-constructor: shallow copy
+
+ex3.cpp:
+    self-made copy-constructor: deep copy
